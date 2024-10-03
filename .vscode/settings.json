@@ -1,0 +1,36 @@
+{
+  // ===
+  // EDITOR
+  // ===
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  // ===
+  // Files (some rules stay with .editorconfig)
+  // ===
+  "files.autoSave": "onFocusChange",
+  "files.trimFinalNewlines": true,
+  "files.exclude": {
+    "**/*.log": true,
+    "**/*.log*": true,
+    "**/dist": true,
+    "**/coverage": true
+  },
+  "files.associations": {
+    "**/*.html": "html",
+    "**/templates/**/*.html": "html",
+    "**/templates/**/*": "django-txt",
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+    ".markdownlintrc": "jsonc"
+  },
+  "search.exclude": {
+    "out": true,
+    "**/*.min.js": true,
+    "**/*.json": true,
+  },
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "python.languageServer": "Pylance"
+}

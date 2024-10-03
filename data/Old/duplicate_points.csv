@@ -1,0 +1,415 @@
+Order,Name,Khmer,Geocode,District,Province,Latitude,Longitude
+20,Chnuor Mean Chey,ឈ្នួរមានជ័យ,10401,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+21,Chob Vari,ជប់វារី,10402,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+22,Phnum Lieb,ភ្នំលៀប,10403,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+23,Prasat,ប្រាសាទ,10404,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+24,Preak Netr Preah,ព្រះនេត្រព្រះ,10405,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+25,Rohal,រហាល,10406,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+26,Tean Kam,ទានកាំ,10407,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+27,Tuek Chour,ទឹកជោរ,10408,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+28,Bos Sbov,បុស្បូវ,10409,Preah Netr,Banteay Meanchey ,13.6209301,103.1826862
+58,Malai,ម៉ាឡៃ,10902,Malai,Banteay Meanchey ,13.5670345,102.3649454
+60,Ou Sralau,អូរស្រឡៅ,10904,Malai,Banteay Meanchey ,13.5670345,102.3649454
+96,Bavel,បវេល,20401,Bavel,Battambang ,13.2545948,102.8802479
+98,Lvea,ល្វា,20403,Bavel,Battambang ,13.2545948,102.8802479
+101,Kdol Ta Haen,ក្ដុលតាហែន,20406,Bavel,Battambang ,13.2545948,102.8802479
+103,Boeung Pram,បឹងប្រាំ,20408,Bavel,Battambang ,13.2545948,102.8802479
+104,Bouvel,បួវិល,20409,Bavel,Battambang ,13.2545948,102.8802479
+149,Phnum Proek,ភ្នំព្រឹក,21101,Phnum Proek,Battambang ,13.3157871,102.3650021
+151,Bour,បួរ,21103,Phnum Proek,Battambang ,13.3157871,102.3650021
+243,Kor,គរ,31305,Prey Chhor,Kampong Cham ,12.0581363,105.2576399
+245,Lvea,ល្វា,31307,Prey Chhor,Kampong Cham ,12.0581363,105.2576399
+247,Prey Chhor,ព្រៃឈរ,31309,Prey Chhor,Kampong Cham ,12.0581363,105.2576399
+286,Phsar,ផ្សារ,40107,Baribour,Kampong Chhnang ,12.4408016,104.4548621
+287,Pech Changvar,ពេជចង្វារ,40108,Baribour,Kampong Chhnang ,12.4408016,104.4548621
+322,Chrey Bak,ជ្រៃបាក់,40604,Rolea B'ier,Kampong Chhnang ,12.2036834,104.6616973
+328,Rolea B'ier,រលាប្អៀរ,40610,Rolea B'ier,Kampong Chhnang ,12.2036834,104.6616973
+335,Krang Lvea,ក្រាំងល្វា,40703,Sameakki Mean Chey,Kampong Chhnang ,11.8783259,104.6092333
+337,Sedthei,សេដ្ឋី,40705,Sameakki Mean Chey,Kampong Chhnang ,11.8783259,104.6092333
+338,Svay,ស្វាយ,40706,Sameakki Mean Chey,Kampong Chhnang ,11.8783259,104.6092333
+339,Svay Chuk,ស្វាយជុក,40707,Sameakki Mean Chey,Kampong Chhnang ,11.8783259,104.6092333
+367,Kandaol Dom,កណ្ដោលដុំ,50202,Chbar Mon,Kampong Speu ,11.4650455,104.5072722
+368,Rokar Thum,រការធំ,50203,Chbar Mon,Kampong Speu ,11.4650455,104.5072722
+388,Ta Sal,តាសាល,50405,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+392,Kiri Voan,គិរីវន្ដ,50604,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+394,Moha Sang,មហាសាំង,50606,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+395,Ou,អូរ,50607,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+396,Prey Rumduol,ព្រៃរំដួល,50608,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+399,Tang Sya,តាំងស្យា,50611,Phnum Sruoch,Kampong Speu ,11.3858497,104.3762816
+401,Yeay Mao Pichnil,យាយម៉ៅពេជ្យនិល,50614,Samraong Tong,Kampong Speu ,11.4079762,104.5422225
+404,Khtum Krang,ខ្ទុំក្រាំង,50703,Samraong Tong,Kampong Speu ,11.4079762,104.5422225
+405,Krang Ampil,ក្រាំងអំពិល,50704,Samraong Tong,Kampong Speu ,11.4079762,104.5422225
+406,Pneay,ព្នាយ,50705,Samraong Tong,Kampong Speu ,11.5090344,104.5990036
+408,Samrong Tong,សំរោងទង,50707,Samraong Tong,Kampong Speu ,11.5090344,104.5990036
+409,Sambour,សំបូរ,50708,Samraong Tong,Kampong Speu ,11.5090344,104.5990036
+412,Tang Krouch,តាំងក្រូច,50711,Samraong Tong,Kampong Speu ,11.5090344,104.5990036
+415,Tumpoar Meas,ទំព័រមាស,50714,Samraong Tong,Kampong Speu ,11.4079762,104.5422225
+416,Voa Sar,វល្លិសរ,50715,Thpong,Kampong Speu ,11.7544464,104.4286639
+418,Monourom,មនោរម្យ,50802,Thpong,Kampong Speu ,11.7544464,104.4286639
+419,Prambei Mum,ប្រាំបីមុម,50804,Thpong,Kampong Speu ,11.7544464,104.4286639
+420,Rung Roeang,រុងរឿង,50805,Thpong,Kampong Speu ,11.7544464,104.4286639
+421,Toap Mean,ទ័ពមាន,50806,Thpong,Kampong Speu ,11.7544464,104.4286639
+423,Yea Angk,យាអង្គ,50808,Odongk Maechay,Kampong Speu ,11.8160695,104.7375102
+424,Veang Chas,វាំងចាស់,50901,Odongk Maechay,Kampong Speu ,11.8160695,104.7375102
+428,Khsem Khsant,ក្សេមក្សាន្ដ,50905,Samkkei Munichay,Kampong Speu ,11.4650455,104.5072722
+429,Chan Saen,ចាន់សែន,51001,Samkkei Munichay,Kampong Speu ,11.4650455,104.5072722
+432,Krang Chek,ក្រាំងចេក,51004,Samkkei Munichay,Kampong Speu ,11.6155109,104.3791912
+433,Mean Chey,មានជ័យ,51005,Samkkei Munichay,Kampong Speu ,11.4650455,104.5072722
+434,Prey Krasang,ព្រៃក្រសាំង,51006,Samkkei Munichay,Kampong Speu ,11.4650455,104.5072722
+436,Damnak Reang,ដំណាក់រាំង,51008,Samkkei Munichay,Kampong Speu ,11.6155109,104.3791912
+437,Peang Lvea,ពាំងល្វា,51009,Samkkei Munichay,Kampong Speu ,11.6155109,104.3791912
+438,Phnom Touch,ភ្នំតូច,51010,Baray,Kampong Thom ,12.3953723,105.0832527
+440,Ballangk,បល្ល័ង្គ,60102,Baray,Kampong Thom ,12.3953723,105.0832527
+441,Baray,បារាយណ៍,60103,Baray,Kampong Thom ,12.3953723,105.0832527
+442,Boeng,បឹង,60104,Baray,Kampong Thom ,12.3953723,105.0832527
+450,Damrei Slab,ដំរីស្លាប់,60202,Kampong Svay,Kampong Thom ,12.7916946,104.8308695
+452,Kampong Svay,កំពង់ស្វាយ,60204,Kampong Svay,Kampong Thom ,12.7916946,104.8308695
+455,San Kor,សាន់គ,60207,Kampong Svay,Kampong Thom ,12.7916946,104.8308695
+457,Trapeang Ruessei,ត្រពាំងឫស្សី,60209,Kampong Svay,Kampong Thom ,12.8221829,105.1258955
+459,Prey Kuy,ព្រៃគុយ,60211,Stueng Saen,Kampong Thom ,12.70787,104.8736858
+460,Damrei Choan Khla,ដំរីជាន់ខ្លា,60301,Stueng Saen,Kampong Thom ,12.70787,104.8736858
+461,Kampong Thum,កំពង់ធំ,60302,Stueng Saen,Kampong Thom ,12.70787,104.8736858
+463,Ou Kanthor,អូរកន្ធរ,60304,Stueng Saen,Kampong Thom ,12.70787,104.8736858
+467,Srayov,ស្រយ៉ូវ,60310,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+468,Doung,ដូង,60401,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+469,Kraya,ក្រយា,60402,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+470,Phan Nheum,ផាន់ញើម,60403,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+471,Sakream,សាគ្រាម,60404,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+472,Sala Visai,សាលាវិស័យ,60405,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+473,Sameakki,សាមគ្គី,60406,Prasat Ballangk,Kampong Thom ,12.9532661,104.9418057
+474,Tuol Kreul,ទួលគ្រើល,60407,Prasat Sambour,Kampong Thom ,12.8845104,105.0645091
+475,Chhuk,ឈូក,60501,Prasat Sambour,Kampong Thom ,12.8845104,105.0645091
+476,Koul,គោល,60502,Prasat Sambour,Kampong Thom ,12.8845104,105.0645091
+479,Tang Krasau,តាំងក្រសៅ,60505,Sandan,Kampong Thom ,13.1048784,105.2483289
+481,Dang Kambet,ដងកាំបិត,60602,Sandan,Kampong Thom ,13.1046434,105.247274
+482,Klaeng,ក្លែង,60603,Sandan,Kampong Thom ,13.1048784,105.2483289
+483,Mean Rith,មានរិទ្ធ,60604,Sandan,Kampong Thom ,13.1048784,105.2483289
+485,Ngan,ងន,60606,Sandan,Kampong Thom ,13.1048784,105.2483289
+486,Sandan,សណ្ដាន់,60607,Sandan,Kampong Thom ,13.1046434,105.247274
+487,Sochet,សុចិត្រ,60608,Sandan,Kampong Thom ,13.1048784,105.2483289
+490,Chroab,ជ្រាប់,60702,Santuk,Kampong Thom ,12.5614005,105.0469743
+494,Pnov,ព្នៅ,60706,Santuk,Kampong Thom ,12.5614005,105.0469743
+495,Prasat,ប្រាសាទ,60707,Santuk,Kampong Thom ,12.5614005,105.0469743
+497,Ti Pou,ទីពោ,60709,Santuk,Kampong Thom ,12.5614005,105.0469743
+500,Chamna Kraom,ចំណាក្រោម,60802,Stoung,Kampong Thom ,12.9411052,104.5684406
+506,Popok,ពពក,60808,Stoung,Kampong Thom ,12.9411052,104.5684406
+509,Rung Roeang,រុងរឿង,60811,Stoung,Kampong Thom ,12.9411052,104.5684406
+510,Samprouch,សំព្រោជ,60812,Stoung,Kampong Thom ,12.9411052,104.5684406
+511,Trea,ទ្រា,60813,Taing Kouk,Kampong Thom ,12.8221829,105.1258955
+513,Chraneang,ច្រនាង,60902,Taing Kouk,Kampong Thom ,12.8221829,105.1258955
+514,Chrolong,ជ្រលង,60903,Taing Kouk,Kampong Thom ,12.8221829,105.1258955
+518,Svay Phleung,ស្វាយភ្លើង,60907,Taing Kouk,Kampong Thom ,12.8221829,105.1258955
+519,Andoung Pou,អណ្ដូងពោធិ៍,60908,Angkor Chey,Kampot ,10.776778,104.6616973
+521,Ankor Chey,អង្គរជ័យ,70102,Angkor Chey,Kampot ,10.776778,104.6616973
+530,Tani,តានី,70111,Banteay Meas,Kampot ,10.6662675,104.562614
+531,Banteay Meas Khang Kaeut,បន្ទាយមាសខាងកើត,70201,Banteay Meas,Kampot ,10.6662675,104.562614
+569,Dang Tong,ដងទង់,70502,Dang Tong,Kampot ,10.7046815,104.4461288
+570,Khcheay Khang Cheung,ឃ្ជាយខាងជើង,70503,Dang Tong,Kampot ,10.7046815,104.4461288
+610,Boeng Tuk,បឹងទូក,70901,Bokor,Kampot ,10.6224876,104.0268286
+611,Kaoh Touch,កោះតូច,70902,Bokor,Kampot ,10.6224876,104.0268286
+630,Trea,ទ្រា,80128,Kien Svay,Kandal ,11.5102843,105.0513578
+633,Dei Edth,ដីឥដ្ឋ,80203,Kien Svay,Kandal ,11.5102843,105.0513578
+635,Kokir,គគីរ,80206,Kien Svay,Kandal ,11.5102843,105.0513578
+638,Samraong Thum,សំរោងធំ,80211,Khsach Kandal,Kandal ,11.7516109,105.0119105
+639,Chey Thum,ជ័យធំ,80302,Khsach Kandal,Kandal ,11.7516109,105.0119105
+647,Sithor,ស៊ីធរ,80314,Khsach Kandal,Kandal ,11.7516109,105.0119105
+650,Vihear Suork,វិហារសួគ៌,80318,Kaoh Thum,Kandal ,11.1268071,105.0572027
+652,Kaoh Thum Ka,កោះធំ ‹ក›,80404,Kaoh Thum,Kandal ,11.1268071,105.0572027
+654,Leuk Daek,លើកដែក,80407,Kaoh Thum,Kandal ,11.1268071,105.0572027
+656,Preaek Thmei,ព្រែកថ្មី,80411,Leuk Daek,Kandal ,11.1771679,105.2282571
+657,Kampong Phnum,កំពង់ភ្នំ,80501,Leuk Daek,Kandal ,11.1771679,105.2282571
+661,Preaek Dach,ព្រែកដាច់,80505,Leuk Daek,Kandal ,11.1771679,105.2282571
+663,Sandar,សណ្ដារ,80507,Lvea Aem,Kandal ,11.5453563,105.0411298
+664,Boeng Krum,បឹងគ្រំ,80603,Lvea Aem,Kandal ,11.5453563,105.0411298
+665,Kaoh Kaev,កោះកែវ,80604,Lvea Aem,Kandal ,11.5453563,105.0411298
+672,Thma Kor,ថ្មគរ,80614,Lvea Aem,Kandal ,11.5453563,105.0411298
+676,Roka Kong Ti Muoy,រកាកោង ទី ១,80707,Mukh Kampul,Kandal ,11.8480085,104.9957691
+677,Roka Kong Ti Pir,រកាកោង ទី ២,80708,Mukh Kampul,Kandal ,11.8480085,104.9957691
+681,Baek Chan,បែកចាន,80801,Angk Snuol,Kandal ,11.5083822,104.7156373
+686,Mkak,ម្កាក់,80809,Angk Snuol,Kandal ,11.5083822,104.7156373
+688,Prey Puoch,ព្រៃពួច,80813,Angk Snuol,Kandal ,11.5083822,104.7156373
+690,Tuol Prech,ទួលព្រេជ,80816,Ponhea Lueu,Kandal ,11.7872229,104.8211423
+691,Chhveang,ឈ្វាំង,80901,Ponhea Lueu,Kandal ,11.7502991,104.7754307
+692,Chrey Loas,ជ្រៃលាស់,80902,Ponhea Lueu,Kandal ,11.7502991,104.7754307
+697,Ponhea Lueu,ពញាឮ,80907,Ponhea Lueu,Kandal ,11.7872229,104.8211423
+701,Vihear Luong,វិហារហ្លួង,80914,S'ang,Kandal ,11.3594531,105.0060673
+702,Khpob,ខ្ពប,81001,S'ang,Kandal ,11.3594531,105.0060673
+703,Kaoh Khael,កោះខែល,81003,S'ang,Kandal ,11.3594531,105.0060673
+706,Prasat,ប្រាសាទ,81006,S'ang,Kandal ,11.3594531,105.0060673
+707,Preaek Ambel,ព្រែកអំបិល,81007,S'ang,Kandal ,11.3594531,105.0060673
+708,Preaek Koy,ព្រែកគយ,81008,S'ang,Kandal ,11.3594531,105.0060673
+710,Svay Prateal,ស្វាយប្រទាល,81012,S'ang,Kandal ,11.3594531,105.0060673
+711,Ta Lon,តាលន់,81014,S'ang,Kandal ,11.3594531,105.0060673
+712,Traeuy Sla,ត្រើយស្លា,81015,S'ang,Kandal ,11.3594531,105.0060673
+713,Tuek Vil,ទឹកវិល,81016,Ta Khmau,Kandal ,11.4592378,104.9447261
+721,Kaoh Anlong Chen,កោះអន្លង់ចិន,81108,Ta Khmau,Kandal ,11.4592378,104.9447261
+723,Roka Khpos,រកាខ្ពស់,81110,Sampeou Poun,Kandal ,10.9968832,105.044052
+725,Preaek Chrey,ព្រែកជ្រៃ,81202,Sampeou Poun,Kandal ,10.9968832,105.044052
+726,Preaek Sdei,ព្រែកស្ដី,81203,Sampeou Poun,Kandal ,10.9968832,105.044052
+727,Chrouy Ta Kaev,ជ្រោយតាកែវ,81204,Sampeou Poun,Kandal ,10.9968832,105.044052
+728,Sampeou Poun,សំពៅពូន,81205,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+729,Bak Dav,បាក់ដាវ,81301,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+730,Kaoh Oknha Tei,កោះឧកញ៉ាតី,81302,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+731,Preaek Ampil,ព្រែកអំពិល,81303,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+732,Preaek Luong,ព្រែកលួង,81304,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+733,Preaek Ta kov,ព្រែកតាកូវ,81305,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+736,Sarikakaev,សារិកាកែវ,81308,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+737,Peam Oknha Ong,ពាមឧកញ៉ាអុង,81309,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+738,Preaek Kmeng,ព្រែកក្មេង,81310,Akreiy Ksatr,Kandal ,11.570049,104.9591576
+739,Barong,បារុង,81311,Botum Sakor,Koh Kong ,11.1883046,103.4685183
+741,Kandaol,កណ្ដោល,90102,Botum Sakor,Koh Kong ,11.1883046,103.4685183
+753,Stueng Veaeng,ស្ទឹងវែង,90403,Mondol Seima,Koh Kong ,11.6229587,102.9493104
+755,Peam Krasaob,ពាមក្រសោប,90502,Mondol Seima,Koh Kong ,11.6229587,102.9493104
+756,Tuol Kokir,ទួលគគីរ,90503,Srae Ambel,Koh Kong ,11.117586,103.7433983
+762,Srae Ambel,ស្រែអំបិល,90606,Thma Bang,Koh Kong ,11.117586,103.7433983
+763,Ta Tey Leu,តាទៃលើ,90701,Thma Bang,Koh Kong ,11.6779092,103.4453969
+764,Pralay,ប្រឡាយ,90702,Thma Bang,Koh Kong ,11.6779092,103.4453969
+765,Chumnoab,ជំនាប់,90703,Thma Bang,Koh Kong ,11.6779092,103.4453969
+766,Ruessei Chrum,ឫស្សីជ្រុំ,90704,Thma Bang,Koh Kong ,11.6779092,103.4453969
+768,Thma Doun Pov,ថ្មដូនពៅ,90706,Chhloung,Kratie ,12.2562914,105.9406128
+769,Chhloung,ឆ្លូង,100101,Chhloung,Kratie ,12.2562914,105.9406128
+781,Roka Kandal,រកាកណ្ដាល,100211,Prek Prasab,Kratie ,12.3918511,105.993491
+786,Preaek Prasab,ព្រែកប្រសព្វ,100305,Prek Prasab,Kratie ,12.3918511,105.993491
+789,Ta Mao,តាម៉ៅ,100308,Sambour,Kratie ,12.7744233,105.9670501
+791,Kampong Cham,កំពង់ចាម,100402,Sambour,Kratie ,12.7744233,105.9670501
+792,Kaoh Khnhaer,កោះខ្ញែរ,100404,Sambour,Kratie ,12.7744233,105.9670501
+793,Sambour,សំបូរ,100407,Sambour,Kratie ,12.7744233,105.9670501
+811,Thmei,ថ្មី,100610,Ou Krieng,Kratie ,13.0478596,106.1807963
+813,Ou Krieng,អូរគ្រៀង,100702,Ou Krieng,Kratie ,13.0478596,106.1807963
+814,Oukondear Senchey,អូរកណ្តៀរសែនជ័យ,100703,Ou Krieng,Kratie ,13.0478596,106.1807963
+815,Roluos Mean Chey,រលួសមានជ័យ,100704,Ou Krieng,Kratie ,13.0478596,106.1807963
+823,A Buon Leu,អ បួនលើ,110202,Kaoh Nheaek,Mondulkiri ,13.0755436,107.0362272
+825,Sokh Sant,សុខសាន្ដ,110204,Kaoh Nheaek,Mondulkiri ,13.0755436,107.0362272
+833,Bu Sra,ប៊ូស្រា,110404,Saen Monourom,Mondulkiri ,12.4747209,107.1484521
+834,Monourom,មនោរម្យ,110501,Saen Monourom,Mondulkiri ,12.4747209,107.1484521
+835,Sokh Dom,សុខដុម,110502,Saen Monourom,Mondulkiri ,12.4747209,107.1484521
+853,Voat Phnum,វត្ដភ្នំ,120211,Prampir Meakkakra,Phnom Penh ,11.5631601,104.9126044
+854,Ou Ruessei Ti Muoy,អូរឫស្សីទី ១,120301,Prampir Meakkakra,Phnom Penh ,11.5625473,104.9170771
+855,Ou Ruessei Ti Pir,អូរឫស្សីទី ២,120302,Prampir Meakkakra,Phnom Penh ,11.5625473,104.9170771
+856,Ou Ruessei Ti Bei,អូរឫស្សីទី ៣,120303,Prampir Meakkakra,Phnom Penh ,11.5625473,104.9170771
+857,Ou Ruessei Ti Buon,អូរឫស្សីទី ៤,120304,Prampir Meakkakra,Phnom Penh ,11.5625473,104.9170771
+858,Monourom,មនោរម្យ,120305,Prampir Meakkakra,Phnom Penh ,11.5631601,104.9126044
+859,Mittapheap,មិត្ដភាព,120306,Prampir Meakkakra,Phnom Penh ,11.5631601,104.9126044
+860,Veal Vong,វាលវង់,120307,Prampir Meakkakra,Phnom Penh ,11.5631601,104.9126044
+873,Pong Tuek,ពងទឹក,120507,Dangkao,Phnom Penh ,11.473724,104.8250329
+894,Chrang Chamreh Ti Muoy,ច្រាំងចំរេះទី ១,120711,Russey Keo,Phnom Penh ,11.6332276,104.8989734
+895,Chrang Chamreh Ti Pir,ច្រាំងចំរេះទី ២,120712,Russey Keo,Phnom Penh ,11.6332276,104.8989734
+928,Preaek Thmei,ព្រែកថ្មី,121208,Boeng Keng Kang,Phnom Penh ,11.5500312,104.9257444
+929,Boeng Keng Kang Ti Muoy,បឹងកេងកងទី ១,121301,Boeng Keng Kang,Phnom Penh ,11.5500312,104.9257444
+932,Olympic,អូឡាំពិក,121304,Boeng Keng Kang,Phnom Penh ,11.5500312,104.9257444
+933,Tumnob Tuek,ទំនប់ទឹក,121305,Boeng Keng Kang,Phnom Penh ,11.5500312,104.9257444
+938,Ovlaok,ឪឡោក,121403,Kamboul,Phnom Penh ,11.5312221,104.7760842
+940,Phleung Chheh Roteh,ភ្លើងឆេះរទេះ,121405,Kamboul,Phnom Penh ,11.5312221,104.7760842
+941,Boeng Thum,បឹងធំ,121406,Kamboul,Phnom Penh ,11.5312221,104.7760842
+942,Prateah Lang,ប្រទះឡាង,121407,Chey Saen,Preah Vihear ,13.64993,105.2604409
+943,S'ang,ស្អាង,130101,Chey Saen,Preah Vihear ,13.64993,105.2604409
+944,Tasu,តស៊ូ,130102,Chey Saen,Preah Vihear ,13.64993,105.2604409
+945,Khyang,ខ្យង,130103,Chey Saen,Preah Vihear ,13.64993,105.2604409
+947,Thmea,ធ្មា,130105,Chey Saen,Preah Vihear ,13.64993,105.2604409
+960,Rumdaoh Srae,រំដោះស្រែ,130304,Choam Ksant,Preah Vihear ,13.5249095,105.0312768
+980,Rumdaoh,រំដោះ,130510,Rovieng,Preah Vihear ,13.5249095,105.0312768
+993,Pal Hal,ប៉ាលហាល,130802,Ba Phnum,Prey Veng ,11.2559068,105.4009178
+995,Cheung Phnum,ជើងភ្នំ,140102,Ba Phnum,Prey Veng ,11.2559068,105.4009178
+997,Reaks Chey,រក្សជ័យ,140104,Ba Phnum,Prey Veng ,11.2559068,105.4009178
+998,Roung Damrei,រោងដំរី,140105,Ba Phnum,Prey Veng ,11.2559068,105.4009178
+1002,Theay,ធាយ,140109,Kamchay Mear,Prey Veng ,11.578148,105.6617813
+1003,Cheach,ជាច,140201,Kamchay Mear,Prey Veng ,11.578148,105.6617813
+1005,Kranhung,ក្រញូង,140203,Kamchay Mear,Prey Veng ,11.578148,105.6617813
+1006,Krabau,ក្របៅ,140204,Kamchay Mear,Prey Veng ,11.578148,105.6617813
+1014,Chrey,ជ្រៃ,140304,Kampong Trabaek,Prey Veng ,11.5653486,105.5305851
+1024,Chong Ampil,ចុងអំពិល,140401,Kanhchriech,Prey Veng ,11.6885153,105.5620927
+1025,Kanhchriech,កញ្ជ្រៀច,140402,Kanhchriech,Prey Veng ,11.6885153,105.5620927
+1026,Kdoeang Reay,ក្ដឿងរាយ,140403,Kanhchriech,Prey Veng ,11.485114,105.328098
+1027,Kouk Kong Kaeut,គោកគង់កើត,140404,Kanhchriech,Prey Veng ,11.6885153,105.5620927
+1028,Kouk Kong Lech,គោកគង់លិច,140405,Kanhchriech,Prey Veng ,11.6885153,105.5620927
+1029,Preal,ព្រាល,140406,Kanhchriech,Prey Veng ,11.6885153,105.5620927
+1039,Trapeang Srae,ត្រពាំងស្រែ,140508,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1040,Angkor Angk,អង្គរអង្គ,140601,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1041,Kampong Prasat,កំពង់ប្រាសាទ,140602,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1042,Kaoh Chek,កោះចេក,140603,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1043,Kaoh Roka,កោះរកា,140604,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1044,Kaoh Sampov,កោះសំពៅ,140605,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1048,Ruessei Srok,ឫស្សីស្រុក,140609,Peam Chor,Prey Veng ,11.1072753,105.2238689
+1066,Roka,រកា,140811,Preah Sdach,Prey Veng ,11.0975014,105.386309
+1072,Krang Svay,ក្រាំងស្វាយ,140906,Preah Sdach,Prey Veng ,11.0975014,105.386309
+1074,Preah Sdach,ព្រះស្ដេច,140908,Preah Sdach,Prey Veng ,11.0975014,105.386309
+1076,Rumchek,រំចេក,140910,Preah Sdach,Prey Veng ,11.0975014,105.386309
+1077,Sena Reach Otdam,សេនារាជឧត្ដម,140911,Prey Veng,Prey Veng ,11.485114,105.328098
+1080,Kampong Leav,កំពង់លាវ,141003,Prey Veng,Prey Veng ,11.485114,105.328098
+1082,Pou Rieng,ពោធិ៍រៀង,141101,Pur Rieng,Prey Veng ,11.5230199,105.357029
+1084,Preaek Chrey,ព្រែកជ្រៃ,141103,Pur Rieng,Prey Veng ,11.5230199,105.357029
+1087,Preaek Ta Sar,ព្រែកតាសរ,141107,Sithor Kandal,Prey Veng ,11.7703811,105.3804526
+1091,Pnov Ti Muoy,ព្នៅទី ១,141204,Sithor Kandal,Prey Veng ,11.8355579,105.3037853
+1092,Pnov Ti Pir,ព្នៅទី ២,141205,Sithor Kandal,Prey Veng ,11.8355579,105.3037853
+1097,Rumlech,រំលេច,141210,Sithor Kandal,Prey Veng ,11.7703811,105.3804526
+1098,Ruessei Sanh,ឫស្សីសាញ់,141211,Svay Antor,Prey Veng ,11.5692151,105.4214515
+1101,Chrey,ជ្រៃ,141303,Svay Antor,Prey Veng ,11.5653486,105.5305851
+1105,Popueus,ពពឺស,141307,Svay Antor,Prey Veng ,11.5692151,105.4214515
+1108,Svay Antor,ស្វាយអន្ទរ,141310,Svay Antor,Prey Veng ,11.5692151,105.4214515
+1109,Tuek Thla,ទឹកថ្លា,141311,Bakan,Pursat ,12.5998027,103.7810579
+1110,Boeng Bat Kandaol,បឹងបត់កណ្ដាល,150101,Bakan,Pursat ,12.5998027,103.7810579
+1112,Khnar Totueng,ខ្នារទទឹង,150103,Bakan,Pursat ,12.5998027,103.7810579
+1115,Rumlech,រំលេច,150106,Bakan,Pursat ,12.5998027,103.7810579
+1118,Trapeang chorng,ត្រពាំងជង,150110,Kandieng,Pursat ,12.6102524,103.9590773
+1119,Anlong Vil,អន្លង់វិល,150201,Kandieng,Pursat ,12.6102524,103.9590773
+1121,Kanhchor,កញ្ជរ,150204,Kandieng,Pursat ,12.6102524,103.9590773
+1124,Svay Luong,ស្វាយលួង,150207,Kandieng,Pursat ,12.6102524,103.9590773
+1125,Sya,ស្យា,150208,Kandieng,Pursat ,12.6102524,103.9590773
+1126,Veal,វាល,150209,Kandieng,Pursat ,12.6102524,103.9590773
+1128,Anlong Tnaot,អន្លង់ត្នោត,150301,Krakor,Pursat ,12.5493579,104.204716
+1129,Ansa Chambak,អន្សាចំបក់,150302,Krakor,Pursat ,12.5493579,104.204716
+1131,Chheu Tom,ឈើតុំ,150304,Krakor,Pursat ,12.5493579,104.204716
+1133,Kampong Pou,កំពង់ពោធិ៍,150306,Krakor,Pursat ,12.5493579,104.204716
+1134,Kbal Trach,ក្បាលត្រាច,150307,Krakor,Pursat ,12.5493579,104.204716
+1135,Ou Sandan,អូរសណ្ដាន់,150308,Krakor,Pursat ,12.5493579,104.204716
+1136,Sna Ansa,ស្នាអន្សា,150309,Krakor,Pursat ,12.5493579,104.204716
+1137,Svay Sa,ស្វាយស,150310,Krakor,Pursat ,12.5493579,104.204716
+1138,Tnaot Chum,ត្នោតជុំ,150311,Phnum Kravanh,Pursat ,12.3539333,103.7694692
+1140,Leach,លាច,150402,Phnum Kravanh,Pursat ,12.3539333,103.7694692
+1141,Prongil,ព្រងិល,150404,Phnum Kravanh,Pursat ,12.3539333,103.7694692
+1142,Rokat,រកាត,150405,Phnum Kravanh,Pursat ,12.3539333,103.7694692
+1143,Santreae,សន្ទ្រែ,150406,Phnum Kravanh,Pursat ,12.3539333,103.7694692
+1144,Samraong,សំរោង,150407,Pursat,Pursat ,12.4651824,103.8911999
+1145,Chamraeun Phal,ចំរើនផល,150501,Pursat,Pursat ,12.4651824,103.8911999
+1150,Svay At,ស្វាយអាត់,150507,Pursat,Pursat ,12.4651824,103.8911999
+1151,Banteay Dei,បន្ទាយដី,150508,Veal Veaeng,Pursat ,12.054292,103.2721197
+1153,Krapeu Pir,ក្រពើពីរ,150602,Veal Veaeng,Pursat ,12.054292,103.2721197
+1161,Ta Lav,តាឡាវ,160104,Ban Lung,Ratanakiri ,13.7375259,106.986264
+1162,Kachanh,កាចាញ,160201,Ban Lung,Ratanakiri ,13.7375259,106.986264
+1163,Labansiek,ឡាបានសៀក,160202,Ban Lung,Ratanakiri ,13.7375259,106.986264
+1166,Kak,កក់,160301,Bar Kaev,Ratanakiri ,13.6849337,107.2104935
+1168,La Minh,ឡាមីញ,160303,Bar Kaev,Ratanakiri ,13.6849337,107.2104935
+1183,Seda,សេដា,160506,Ou Chum,Ratanakiri ,13.8075945,107.0185123
+1188,Ou Chum,អូរជុំ,160605,Ou Chum,Ratanakiri ,13.8075945,107.0185123
+1190,L'ak,ល្អក់,160607,Ou Ya Dav,Ratanakiri ,13.6696342,107.346448
+1194,Pa Te,ប៉ាតេ,160704,Ou Ya Dav,Ratanakiri ,13.6696342,107.346448
+1195,Sesan,សេសាន,160705,Ou Ya Dav,Ratanakiri ,13.6696342,107.346448
+1208,Veun Sai,វើនសៃ,160910,Angkor Chum,Siem Reap ,13.6862703,103.6449543
+1212,Koul,គោល,170104,Angkor Chum,Siem Reap ,13.6862703,103.6449543
+1216,Chob Ta Trav,ជប់តាត្រាវ,170201,Angkor Thum,Siem Reap ,13.4840408,103.8738031
+1217,Leang Dai,លាងដៃ,170202,Angkor Thum,Siem Reap ,13.4840408,103.8738031
+1219,Svay Chek,ស្វាយចេក,170204,Banteay Srei,Siem Reap ,13.6031005,103.9666115
+1223,Rumchek,រំចេក,170304,Banteay Srei,Siem Reap ,13.6031005,103.9666115
+1224,Tbaeng,ត្បែង,170306,Chi Kraeng,Siem Reap ,13.0781698,104.297731
+1234,Ruessei Lok,ឫស្សីលក,170410,Chi Kraeng,Siem Reap ,13.0781698,104.297731
+1235,Sangvaeuy,សង្វើយ,170411,Chi Kraeng,Siem Reap ,13.0781698,104.297731
+1237,Chanleas Dai,ចន្លាសដៃ,170601,Kralanh,Siem Reap ,13.5854814,103.4193903
+1238,Kampong Thkov,កំពង់ថ្កូវ,170602,Kralanh,Siem Reap ,13.5854814,103.4193903
+1239,Kralanh,ក្រឡាញ់,170603,Kralanh,Siem Reap ,13.5854814,103.4193903
+1240,Krouch Kor,ក្រូចគរ,170604,Kralanh,Siem Reap ,13.5854814,103.4193903
+1243,Saen Sokh,សែនសុខ,170607,Kralanh,Siem Reap ,13.5854814,103.4193903
+1245,Sranal,ស្រណាល,170609,Kralanh,Siem Reap ,13.5854814,103.4193903
+1246,Ta An,តាអាន,170610,Puok,Siem Reap ,13.4352943,103.7347091
+1248,Doun Kaev,ដូនកែវ,170702,Puok,Siem Reap ,13.4352943,103.7347091
+1249,Kdei Run,ក្ដីរុន,170703,Puok,Siem Reap ,13.4352943,103.7347091
+1251,Khnat,ខ្នាត,170705,Puok,Siem Reap ,13.4352943,103.7347091
+1252,Lvea,ល្វា,170707,Puok,Siem Reap ,13.8396924,103.9593586
+1253,Mukh Paen,មុខប៉ែន,170708,Puok,Siem Reap ,13.4352943,103.7347091
+1254,Pou Treay,ពោធិ៍ទ្រាយ,170709,Puok,Siem Reap ,13.4352943,103.7347091
+1255,Puok,ពួក,170710,Puok,Siem Reap ,13.4352943,103.7347091
+1260,Yeang,យាង,170716,Prasat Bakong,Siem Reap ,13.3427466,103.9782169
+1265,Mean Chey,មានជ័យ,170907,Prasat Bakong,Siem Reap ,13.3427466,103.9782169
+1266,Roluos,រលួស,170908,Prasat Bakong,Siem Reap ,13.3427466,103.9782169
+1273,Nokor Thum,នគរធំ,171005,Siem Reap,Siem Reap ,13.3632533,103.856403
+1274,Chreav,ជ្រាវ,171006,Siem Reap,Siem Reap ,13.3632533,103.856403
+1276,Sngkat Sambuor,សំបួរ,171008,Siem Reap,Siem Reap ,13.3632533,103.856403
+1277,Siem Reap,សៀមរាប,171009,Siem Reap,Siem Reap ,13.3632533,103.856403
+1278,Srangae,ស្រង៉ែ,171010,Siem Reap,Siem Reap ,13.3632533,103.856403
+1288,Popel,ពពេល,171108,Soutr Nikom,Siem Reap ,13.1712458,104.1233667
+1289,Samraong,សំរោង,171109,Soutr Nikom,Siem Reap ,13.1712458,104.1233667
+1290,Ta Yaek,តាយ៉ែក,171110,Srei Snam,Siem Reap ,13.8323486,103.5147735
+1292,Klang Hay,ក្លាំងហាយ,171202,Srei Snam,Siem Reap ,13.8323486,103.5147735
+1293,Tram Sasar,ត្រាំសសរ,171203,Srei Snam,Siem Reap ,13.8323486,103.5147735
+1294,Moung,មោង,171204,Srei Snam,Siem Reap ,13.8323486,103.5147735
+1295,Prei,ប្រីយ៍,171205,Srei Snam,Siem Reap ,13.8323486,103.5147735
+1296,Slaeng Spean,ស្លែងស្ពាន,171206,Svay Leu,Siem Reap ,13.5532254,104.245408
+1298,Kantuot,កន្ទួត,171302,Svay Leu,Siem Reap ,13.5532254,104.245408
+1299,Khnang Phnum,ខ្នងភ្នំ,171303,Svay Leu,Siem Reap ,13.5532254,104.245408
+1300,Svay Leu,ស្វាយលើ,171304,Svay Leu,Siem Reap ,13.5532254,104.245408
+1301,Ta Siem,តាសៀម,171305,Varin,Siem Reap ,13.8683537,103.8303209
+1302,Prasat,ប្រាសាទ,171401,Varin,Siem Reap ,13.8683537,103.8303209
+1303,Lvea Krang,ល្វាក្រាំង,171402,Varin,Siem Reap ,13.8396924,103.9593586
+1306,Varin,វ៉ារិន,171405,Run Ta Aek Techo Sen,Siem Reap ,13.4740164,104.0255945
+1307,Run Ta Aek,រុនតាឯក,171501,Run Ta Aek Techo Sen,Siem Reap ,13.4740164,104.0255945
+1308,Ballangk,បល្ល័ង្ក,171502,Preah Sihanouk,Preah Sihanouk ,10.6267867,103.5115545
+1310,Pir,២,180102,Preah Sihanouk,Preah Sihanouk ,10.6267867,103.5115545
+1311,Bei,៣,180103,Preah Sihanouk,Preah Sihanouk ,10.6267867,103.5115545
+1312,Buon,៤,180104,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1316,Cheung Kou,ជើងគោ,180204,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1317,Ou Chrov,អូរជ្រៅ,180205,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1319,Prey Nob,ព្រៃនប់,180207,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1321,Sameakki,សាមគ្គី,180209,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1323,Tuek L'ak,ទឹកល្អក់,180211,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1324,Tuek Thla,ទឹកថ្លា,180212,Prey Nob,Preah Sihanouk ,10.7089175,103.8158299
+1327,Ta Ney,តានៃ,180215,Stueng Hav,Preah Sihanouk ,10.7397262,103.6189078
+1328,Kampenh,កំពេញ,180301,Stueng Hav,Preah Sihanouk ,10.7397262,103.6189078
+1368,Thala Barivat,ថាឡាបរិវ៉ាត់,190511,Borei Ou Svay Senchey,Stung Treng ,13.8578249,106.0007105
+1369,Ou Svay,អូរស្វាយ,190601,Borei Ou Svay Senchey,Stung Treng ,13.8578249,106.0007105
+1370,Kaoh Snaeng,កោះស្នែង,190602,Borei Ou Svay Senchey,Stung Treng ,13.8578249,106.0007105
+1372,Chantrea,ចន្ទ្រា,200103,Chantrea,Svay Rieng ,10.98959,106.1286901
+1375,Prey Kokir,ព្រៃគគីរ,200108,Chantrea,Svay Rieng ,10.98959,106.1286901
+1376,Samraong,សំរោង,200109,Chantrea,Svay Rieng ,10.98959,106.1286901
+1388,Tnaot,ត្នោត,200212,Rumduol,Svay Rieng ,11.162401,105.8202234
+1390,Thmea,ធ្មា,200302,Rumduol,Svay Rieng ,11.162401,105.8202234
+1395,Pong Tuek,ពងទឹក,200307,Rumduol,Svay Rieng ,11.162401,105.8202234
+1396,Sangkae,សង្កែ,200308,Rumduol,Svay Rieng ,11.162401,105.8202234
+1400,Andoung Pou,អណ្ដូងពោធិ៍,200402,Romeas Haek,Svay Rieng ,11.4124231,105.7952744
+1403,Chantrei,ចន្ដ្រី,200405,Romeas Haek,Svay Rieng ,11.4124231,105.7952744
+1405,Doung,ដូង,200407,Romeas Haek,Svay Rieng ,11.4124231,105.7952744
+1410,Mream,ម្រាម,200412,Romeas Haek,Svay Rieng ,11.4124231,105.7952744
+1412,Sambatt Mean Chey,សម្បត្ដិមានជ័យ,200414,Romeas Haek,Svay Rieng ,11.4124231,105.7952744
+1417,Chambak,ចំបក់,200503,Svay Chrum,Svay Rieng ,11.1216965,105.7224686
+1420,Chheu Teal,ឈើទាល,200507,Svay Chrum,Svay Rieng ,11.1216965,105.7224686
+1430,Thlok,ធ្លក,200517,Svay Rieng,Svay Rieng ,11.0877866,105.800951
+1431,Svay Rieng,ស្វាយរៀង,200601,Svay Rieng,Svay Rieng ,11.0877866,105.800951
+1435,Chek,ចេក,200605,Svay Rieng,Svay Rieng ,11.0877866,105.800951
+1437,Sangkhoar,សង្ឃរ័,200607,Svay Teab,Svay Rieng ,11.1144529,105.9464874
+1440,Monourom,មនោរម្យ,200704,Svay Teab,Svay Rieng ,11.1144529,105.9464874
+1473,Borei Cholsar,បូរីជលសារ,210301,Borei Cholsar,Takeo ,10.8359421,105.0235976
+1474,Chey Chouk,ជ័យជោគ,210302,Borei Cholsar,Takeo ,10.8359421,105.0235976
+1476,Kampong Krasang,កំពង់ក្រសាំង,210304,Borei Cholsar,Takeo ,10.8359421,105.0235976
+1477,Kouk Pou,គោកពោធិ៍,210305,Kiri Vong ,Takeo ,10.6376749,104.8746508
+1481,Kampeaeng,កំពែង,210404,Kiri Vong ,Takeo ,10.6376749,104.8746508
+1508,Tang Yab,តាំងយ៉ាប,210613,Samraong,Takeo ,11.1438457,104.8016887
+1516,Samraong,សំរោង,210708,Samraong,Takeo ,11.1438457,104.8016887
+1520,Baray,បារាយណ៍,210801,Doun Kaev,Takeo ,10.9877057,104.7871004
+1521,Roka Knong,រកាក្នុង,210802,Doun Kaev,Takeo ,10.9877057,104.7871004
+1522,Roka Krau,រកាក្រៅ,210803,Tram Kak,Takeo ,10.9116171,104.5896684
+1535,Tram Kak,ត្រាំកក់,210913,Tram Kak,Takeo ,10.9116171,104.5896684
+1551,Tralach,ត្រឡាច,211014,Anlong Veaeng,Oddar Meanchey,14.2413707,104.0943247
+1552,Anlong Veaeng,អន្លង់វែង,220101,Anlong Veaeng,Oddar Meanchey,14.2413707,104.0943247
+1555,Thlat,ថ្លាត,220105,Anlong Veaeng,Oddar Meanchey,14.2413707,104.0943247
+1561,Cheung Tien,ជើងទៀន,220301,Chong Kal,Oddar Meanchey,13.9497185,103.5711692
+1562,Chong Kal,ចុងកាល់,220302,Chong Kal,Oddar Meanchey,13.9497185,103.5711692
+1564,Pongro,ពង្រ,220304,Samraong,Oddar Meanchey,14.2419164,103.5702011
+1566,Bos Sbov,បុស្បូវ,220402,Samraong,Oddar Meanchey,14.2419164,103.5702011
+1577,Pong Tuek,ពងទឹក,230103,Kaeb,Kep ,11.473724,104.8250329
+1580,Ou Krasar,អូរក្រសារ,230203,Pailin,Pailin ,12.8551703,102.6089534
+1581,Pailin,ប៉ៃលិន,240101,Pailin,Pailin ,12.8551703,102.6089534
+1588,Ou Andoung,អូរអណ្ដូង,240204,Dambae,Tboung Khmum ,11.9177554,105.8583873
+1590,Dambae,តំបែរ,250102,Dambae,Tboung Khmum ,11.9177554,105.8583873
+1596,Chhuk,ឈូក,250201,Krouch Chhmar,Tboung Khmum ,12.2728471,105.6521474
+1599,Kaoh Pir,កោះពីរ,250204,Krouch Chhmar,Tboung Khmum ,12.2728471,105.6521474
+1600,Krouch Chhmar,ក្រូចឆ្មារ,250205,Krouch Chhmar,Tboung Khmum ,12.2728471,105.6521474
+1601,Peus Muoy,ប៉ឺស១,250206,Krouch Chhmar,Tboung Khmum ,12.2728471,105.6521474
+1606,Trea,ទ្រា,250211,Krouch Chhmar,Tboung Khmum ,12.2728471,105.6521474
+1608,Chan Mul,ចាន់មូល,250301,Memot,Tboung Khmum ,11.8301955,106.1786787
+1609,Choam,ជាំ,250302,Memot,Tboung Khmum ,11.8301955,106.1786787
+1610,Choam Kravien,ជាំក្រវៀន,250303,Memot,Tboung Khmum ,11.8301955,106.1786787
+1611,Choam Ta Mau,ជាំតាម៉ៅ,250304,Memot,Tboung Khmum ,11.8301955,106.1786787
+1612,Dar,ដារ,250305,Memot,Tboung Khmum ,11.8301955,106.1786787
+1613,Kampoan,កំពាន់,250306,Memot,Tboung Khmum ,11.8301955,106.1786787
+1615,Memong,មេមង,250308,Memot,Tboung Khmum ,11.8301955,106.1786787
+1616,Memot,មេមត់,250309,Memot,Tboung Khmum ,11.8301955,106.1786787
+1617,Rumchek,រំចេក,250310,Memot,Tboung Khmum ,11.8301955,106.1786787
+1618,Rung,រូង,250311,Memot,Tboung Khmum ,11.8301955,106.1786787
+1621,Triek,ទ្រៀក,250314,Ou Reang Ov,Tboung Khmum ,11.7967745,105.5034785
+1623,Chak,ចក,250402,Ou Reang Ov,Tboung Khmum ,11.7967745,105.5034785
+1627,Preah Theat,ព្រះធាតុ,250406,Ou Reang Ov,Tboung Khmum ,11.7967745,105.5034785
+1628,Tuol Souphi,ទួលសូភី,250407,Ponhea Kraek,Tboung Khmum ,11.7977718,105.8789403
+1630,Kak,កក់,250502,Ponhea Kraek,Tboung Khmum ,11.7977718,105.8789403
+1639,Anhchaeum,អញ្ចើម,250701,Tboung Khmum,Tboung Khmum ,11.9213853,105.6002024
+1640,Boeng Pruol,បឹងព្រួល,250702,Tboung Khmum,Tboung Khmum ,11.9213853,105.6002024
+1645,Kor,គរ,250707,Tboung Khmum,Tboung Khmum ,11.9213853,105.6002024
+1646,Lngieng,ល្ងៀង,250708,Tboung Khmum,Tboung Khmum ,11.9213853,105.6002024
+1650,Sralab,ស្រឡប់,250712,Tboung Khmum,Tboung Khmum ,11.9213853,105.6002024

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "properties": {
+              "code": "KH01",
+              "name": "Banteay Meanchey"
+          },
+          "geometry": {
+              "coordinates": [
+                  103.01780957650536,
+                  13.705363970488683
+              ],
+              "type": "Point"
+          }
+      }
+    ]
+}

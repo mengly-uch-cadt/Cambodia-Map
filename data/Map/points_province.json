@@ -1,0 +1,355 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH01",
+                "name": "Banteay Meanchey"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.01780957650536,
+                    13.705363970488683
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH02",
+                "name": "Battambang"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.08542051698794,
+                    12.97913867587153
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH03",
+                "name": "Kampong Cham"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.27233748195536,
+                    12.126012755619968
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH04",
+                "name": "Kampong Chhnang"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.55990829606873,
+                    12.159931986154998
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH05",
+                "name": "Kampong Speu"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.29252955738376,
+                    11.535854254315606
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH06",
+                "name": "Kampong Thom"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.0685838237367,
+                    12.828537299127104
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH07",
+                "name": "Kampot"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.30931542516664,
+                    10.795366573221418
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH08",
+                "name": "Kandal"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.01798213148452,
+                    11.422834317651928
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH09",
+                "name": "Koh Kong"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.4130123240756,
+                    11.513566846389962
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH10",
+                "name": "Kratie"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.16923273920682,
+                    12.628916724314356
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH11",
+                "name": "Mondul Kiri"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.99192459340236,
+                    12.76705947934956
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH12",
+                "name": "Phnom Penh"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.86514938347514,
+                    11.562899898718555
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH13",
+                "name": "Preah Vihear"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.00639934408166,
+                    13.797802589438032
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH14",
+                "name": "Prey Veng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.42437846686076,
+                    11.396325102045065
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH15",
+                "name": "Pursat"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.60687884858622,
+                    12.335105759047432
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH16",
+                "name": "Ratanak Kiri"
+            },
+            "geometry": {
+                "coordinates": [
+                    107.0884420417243,
+                    13.796559601020787
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH17",
+                "name": "Siemreap"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.02086979741118,
+                    13.507522114827268
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH18",
+                "name": "Preah Sihanouk"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.80354003627492,
+                    10.863139646891678
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH19",
+                "name": "Stung Treng"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.17532321905853,
+                    13.806444698568637
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH20",
+                "name": "Svay Rieng"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.86434697166784,
+                    11.155268247245363
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH21",
+                "name": "Takeo"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.81624234924084,
+                    10.940453938050812
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH22",
+                "name": "Oddar Meanchey"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.78943683545648,
+                    14.164212510559658
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH23",
+                "name": "Kep"
+            },
+            "geometry": {
+                "coordinates": [
+                    104.3437978411322,
+                    10.5215738594669
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH24",
+                "name": "Pailin"
+            },
+            "geometry": {
+                "coordinates": [
+                    102.6344816638291,
+                    12.881305465209197
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "KH25",
+                "name": "Tboung Khmum"
+            },
+            "geometry": {
+                "coordinates": [
+                    105.8883071303499,
+                    11.935875829093463
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

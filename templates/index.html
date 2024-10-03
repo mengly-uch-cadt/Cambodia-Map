@@ -1,0 +1,269 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cambodia Map</title>
+<link rel="icon" type="image/png" href="{% static 'favicon.ico' %}">
+<script src="{% static 'js/numeral.min.js' %}"></script>
+<script src="{% static 'js/d3.v4.min.js' %}"></script>
+<script src="{% static 'js/topojson.v2.min.js' %}"></script>
+<script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
+<script src="{% static 'js/map.js' %}"></script>
+<link rel="stylesheet" href="{% static 'css/d3-chart.css' %}">
+<link rel="stylesheet" href="{% static 'css/font-khmer.css' %}">
+<style>
+.custom-vis-layout {
+    width: 100%;
+    max-width: 1000px;
+    height: 650px;
+    background-color: white;
+    border: 1px solid blue;
+    margin: 0 auto;
+  }
+
+  #domNode path {
+    fill: lightblue;           /* Default province color */
+    stroke: white;             /* Border color */
+    stroke-width: 1px;
+    transition: fill 0.3s ease; /* Smooth transition */
+  }
+
+  #domNode path:hover {
+    fill: orange;              /* Hover color */
+    cursor: pointer;           /* Change cursor to pointer on hover */
+  }
+/*  */
+  .form-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+
+  .form-container table {
+    width: 100%;
+    /* margin-bottom: 20px; */
+  }
+
+  #tbl-result {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  #tbl-result th, #tbl-result td {
+    padding: 10px;
+  }
+
+  #tbl-result tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+
+  button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="form-container">
+      <form id="location-form">
+        <table>
+            <thead>
+              <tr>
+                <th>Source</th>
+                <th></th>
+                <th style="width:50px"></th>
+                <th>Target</th>
+                <th></th>
+                <th style="width:50px"></th>
+                <th>Result</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Province</td>
+                <td>: <select id="src-province" name="src_province" class="khmer-font" required></select></td>
+                <td></td>
+                <td>Province</td>
+                <td>: <select id="trg-province" name="trg_province" class="khmer-font" required></select></td>
+                <td></td>
+                <td>Path</td>
+                <td>: <span id="result-path"><span></td>
+              </tr>
+              <tr>
+                <td>District</td>
+                <td>: <select id="src-district" name="src_district" class="khmer-font" required></select></td>
+                <td></td>
+                <td>District</td>
+                <td>: <select id="trg-district" name="trg_district" class="khmer-font" required></select></td>
+                <td></td>
+                <td>Distance</td>
+                <td>: <span id="result-distance"><span></td>
+              </tr>
+              <tr>
+                <td>Commune</td>
+                <td>: <select id="src-commune" name="src_commune" class="khmer-font" required></select></td>
+                <td></td>
+                <td>Commune</td>
+                <td>: <select id="trg-commune" name="trg_commune" class="khmer-font" required></select></td>
+                <td></td>
+                <td>Straight</td>
+                <td>: <span id="result-straight"><span></td>
+              </tr>
+              <tr>
+                <td>Algorithm:</td>
+                <td>: <select id="opt-algorithm" name="algorithm" required>
+                  <option value="bfs">BFS</option>
+                  <option value="dfs">DFS</option>
+                  <option value="gbfs">GBFS</option>
+                  <option value="astar">A Star</option>
+                </select></td>
+                <td><button type="submit">Submit</button></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              </tbody>
+          </table>
+          <div class="loading-spinner" style="display:none;">Loading...</div>
+        </form>
+      </div>
+      
+      <div class="custom-vis-layout sbi_cambodiamap" id="domNode"></div>
+      <container>
+        <table id="tbl-result">
+          <thead>
+            <tr>
+              <th style="width:50px">No</th>
+              <th style="width:150px">Code</th>
+              <th style="width:250px">Name</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </container>
+      
+    </div>
+<script>
+$(document).ready(function () {
+
+    const dimNode = d3.select('#domNode').node().getBoundingClientRect();
+    var map = new MapChart({
+      domNode: document.querySelector('#domNode'),
+      width: dimNode.width - 2,
+      height: dimNode.height - 2,
+      geofolder: "{% static 'json' %}",
+      mapShape: { level: 1, geo: "HRPCode", csv: "provinceCode" },
+    });
+
+
+    function RenderDropdown(parent_code, dropdown_id, selected_code) {
+      const csvUrl = "{% static 'csv/geodata.csv' %}";
+      d3.csv(csvUrl, function (error, data) {
+        var arr = data.filter(function (obj) { return obj.parent == parent_code; });
+        $(dropdown_id).empty().append($('<option></option>'));
+        $.each(arr, function (idx, entry) {
+          $(dropdown_id).append($('<option></option>')
+            .attr('value', entry.code)
+            .attr("selected", entry.code == selected_code ? "selected" : null)
+            .text(entry.code.slice(-2) + '. ' + entry.name_km));
+        });
+
+      });
+    }
+
+
+    RenderDropdown('KH', "#src-province", null);
+    RenderDropdown('KH', "#trg-province", null);
+
+    $("#src-province").change(function () {
+      $("#src-district").empty();
+      $("#src-commune").empty();
+      if (this.value) { RenderDropdown(this.value, "#src-district", null); }
+    });
+    $("#src-district").change(function () {
+      $("#src-commune").empty();
+      if (this.value) { RenderDropdown(this.value, "#src-commune", null); }
+    });
+
+    $("#trg-province").change(function () {
+      $("#trg-district").empty();
+      $("#trg-commune").empty();
+      if (this.value) { RenderDropdown(this.value, "#trg-district", null); }
+    });
+    $("#trg-district").change(function () {
+      $("#trg-commune").empty();
+      if (this.value) { RenderDropdown(this.value, "#trg-commune", null); }
+    });
+
+
+    $('#location-form').on('submit', function (event) {
+      event.preventDefault(); // Prevent the default form submission
+
+      // Validate Form
+      var src_commune = $("#src-commune").val();
+      var trg_commune = $("#trg-commune").val();
+      if (!src_commune || !trg_commune) {
+        alert('Invalid');
+        return;
+      }
+
+      var formData = $(this).serialize();
+
+      $.ajax({
+        type: 'POST',
+        url: "{% url 'mapapp:search-post' %}",
+        data: formData,
+        success: function (response) {
+          console.log(response);
+          $('#result-path').text(String(response['points'].length) + ' nodes');
+          $('#result-distance').text(String(response['distance']) + ' km');
+          $('#result-straight').text(String(response['straight']) + ' km');
+          map.draw_search_path(response['points']);
+
+          // Render Table
+          $('#tbl-result tbody').empty();
+          $.each(response['points'], function(index, item) {
+              $('#tbl-result tbody').append(
+                '<tr>'
+                + '<td>' + String(index+1) + '</td>'
+                + '<td>' + item.code + '</td>'
+                + '<td>' + item.name + '</td>'
+                + '</tr>'
+              );
+          });
+
+        },
+        error: function (error) {
+          alert('Server Error');
+        // $('#response').html('<p>An error occurred. Please try again.</p>');
+          console.error(error);
+        }
+      });
+    });
+
+  });
+</script>
+</body>
+</html>

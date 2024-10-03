@@ -1,0 +1,59 @@
+.map-visualize .subunit {
+  fill: #ddd;
+  stroke: #fff;
+  stroke-width: 2px;
+}
+.map-visualize .subunit.hover {
+  stroke: #000;
+  stroke-width: 3px;
+}
+.map-visualize .subunit.selected {
+  stroke: red;
+  stroke-width: 2px;
+}
+.map-visualize .subunit-boundary {
+  fill: none;
+  stroke: #3a403d;
+}
+.map-visualize .place, .place-label {
+  pointer-events: none;
+}
+.map-visualize .place-label {
+  font-size: .7em;
+  text-shadow: 0px 0px 2px #fff;
+}
+.map-visualize > svg {
+  background-color: white;
+  border: 1px solid black;
+}
+#tip {
+  position: absolute;
+  background: rgb(236, 215, 143);
+  opacity: 0.9;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 15px;
+}
+#legend {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+#legend .legend-title {
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+#legend .legend-item {
+  margin-bottom: 4px;
+  font-size: .8em;
+}
+#legend .legend-swatch, #legend .legend-value {
+  display: inline-block;
+  vertical-align: bottom;
+}
+#legend .legend-swatch {
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "bigonesystems.django",
+        "batisteo.vscode-django",
+        "bibhasdn.django-html",
+        "editorconfig.editorconfig",
+        "donjayamanne.githistory",
+        "pkief.material-icon-theme",
+        "ms-python.python"
+    ]
+}

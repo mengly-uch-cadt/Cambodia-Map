@@ -1,0 +1,98 @@
+Ou Chrov, Poi Pet, 11004
+Ou Reusey, Poi Pet, 11005
+Bouvel, Bavel, 20409
+Phnom Kraing Dey Meas, Rolea B'ier, 40614
+Kdol Saen Chey, Tuek Phos, 40809
+Yeay Mao Pichnil, Samraong Tong, 50614
+Veang Chas, Odongk Maechay, 50901
+Veal Pong, Odongk Maechay, 50902
+Trach Tong, Odongk Maechay, 50903
+Preah Srae, Odongk Maechay, 50904
+Khsem Khsant, Samkkei Munichay, 50905
+Chan Saen, Samkkei Munichay, 51001
+Cheung Roas, Samkkei Munichay, 51002
+Chumpu Proeks, Samkkei Munichay, 51003
+Krang Chek, Samkkei Munichay, 51004
+Mean Chey, Samkkei Munichay, 51005
+Prey Krasang, Samkkei Munichay, 51006
+Yutth Sameakki, Samkkei Munichay, 51007
+Damnak Reang, Samkkei Munichay, 51008
+Peang Lvea, Samkkei Munichay, 51009
+Phnom Touch, Baray, 51010
+Pongro, Taing Kouk, 60901
+Chraneang, Taing Kouk, 60902
+Chrolong, Taing Kouk, 60903
+Triel, Taing Kouk, 60904
+Sou Young, Taing Kouk, 60905
+Sralau, Taing Kouk, 60906
+Svay Phleung, Taing Kouk, 60907
+Andoung Pou, Angkor Chey, 60908
+Boeng Tuk, Bokor, 70901
+Kaoh Touch, Bokor, 70902
+Preaek Tnoat, Kandal Stueng, 70903
+Svay Rolum, Ta Khmau, 81107
+Kaoh Anlong Chen, Ta Khmau, 81108
+Setbou, Ta Khmau, 81109
+Roka Khpos, Sampeou Poun, 81110
+Chheu Kmau, Sampeou Poun, 81201
+Preaek Chrey, Sampeou Poun, 81202
+Preaek Sdei, Sampeou Poun, 81203
+Chrouy Ta Kaev, Sampeou Poun, 81204
+Sampeou Poun, Akreiy Ksatr, 81205
+Bak Dav, Akreiy Ksatr, 81301
+Kaoh Oknha Tei, Akreiy Ksatr, 81302
+Preaek Ampil, Akreiy Ksatr, 81303
+Preaek Luong, Akreiy Ksatr, 81304
+Preaek Ta kov, Akreiy Ksatr, 81305
+Svay Chrum, Akreiy Ksatr, 81306
+Akreiy Ksatr, Akreiy Ksatr, 81307
+Sarikakaev, Akreiy Ksatr, 81308
+Peam Oknha Ong, Akreiy Ksatr, 81309
+Preaek Kmeng, Akreiy Ksatr, 81310
+Barong, Botum Sakor, 81311
+Kronhoung Saen Chey, Chetr Borei, 100506
+Kbal Damrei, Ou Krieng, 100701
+Ou Krieng, Ou Krieng, 100702
+Oukondear Senchey, Ou Krieng, 100703
+Roluos Mean Chey, Ou Krieng, 100704
+Srae Chis, Kaev Seima, 100705
+Stueng Mean chey 1, Mean Chey, 120608
+Stueng Mean chey 2, Mean Chey, 120609
+Stueng Mean chey 3, Mean Chey, 120610
+Boeng Tumpun 1, Mean Chey, 120611
+Boeng Tumpun 2, Russey Keo, 120612
+Tuol Sangkae 1, Russey Keo, 120713
+Tuol Sangkae 2, Saensokh, 120714
+Ou Baek K'am, Saensokh, 120808
+Kouk Khleang, Pur SenChey, 120809
+Chaom Chau 1, Pur SenChey, 120914
+Chaom Chau 2, Pur SenChey, 120915
+Chaom Chau 3, Pur SenChey, 120916
+Kakab 1, Pur SenChey, 120917
+Kakab 2, Chrouy Changvar, 120918
+Boeng Keng Kang Ti Muoy, Boeng Keng Kang, 121301
+Boeng Keng Kang Ti Pir, Boeng Keng Kang, 121302
+Boeng Keng Kang Ti Bei, Boeng Keng Kang, 121303
+Olympic, Boeng Keng Kang, 121304
+Tumnob Tuek, Boeng Keng Kang, 121305
+Tuol Svay Prey Ti Muoy, Boeng Keng Kang, 121306
+Tuol Svay Prey Ti Pir, Kamboul, 121307
+Kamboul, Kamboul, 121401
+Kantaok, Kamboul, 121402
+Ovlaok, Kamboul, 121403
+Snaor, Kamboul, 121404
+Phleung Chheh Roteh, Kamboul, 121405
+Boeng Thum, Kamboul, 121406
+Prateah Lang, Chey Saen, 121407
+Ta Kao, Pur Rieng, 141004
+Ta Lou, Ta Lou Senchey, 150701
+Phteah Rung, Andoung Meas, 150702
+Ampil, Siem Reap, 170910
+Run Ta Aek, Run Ta Aek Techo Sen, 171501
+Ballangk, Preah Sihanouk, 171502
+Ta Ney, Stueng Hav, 180215
+Kaoh Rung, Kaoh Rung, 180501
+Koah Rung Sonlem, Sesan, 180502
+Ou Svay, Borei Ou Svay Senchey, 190601
+Kaoh Snaeng, Borei Ou Svay Senchey, 190602
+Preah Rumkel, Chantrea, 190603

@@ -1,0 +1,19 @@
+{% load static %}
+
+/* khmer Moul*/
+@font-face {
+    font-family: 'Moul';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Moul'), url({% static 'fonts/khmer-moul.woff2' %}) format('woff2');
+    unicode-range: U+1780-17FF, U+200C, U+25CC;
+}
+
+/* khmer Battambang*/
+@font-face {
+    font-family: 'Battambang';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Battambang Regular'), local('Battambang-Regular'), url({% static 'fonts/khmer-battambang.woff2' %}) format('woff2');
+    unicode-range: U+1780-17FF, U+200C, U+25CC;
+}
